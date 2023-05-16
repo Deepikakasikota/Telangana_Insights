@@ -8,7 +8,6 @@ Telangana, which is one of the leading states in India, shares information about
 ## Objective:
 
 Provide Insights to Telangana Government Tourism Department
-![image](https://github.com/Deepikakasikota/Telangana_Insights/assets/103427929/05d61fca-4d5a-4544-933a-838fafa7593b)
 
 ## About the Data:
 
@@ -20,7 +19,6 @@ We have two folders --
 	2. Foreign Visitors
 
 -    Each folder contains the data of visitors from years 2016 to 2019 with separate files.
-![image](https://github.com/Deepikakasikota/Telangana_Insights/assets/103427929/42f41127-9594-4f98-8765-783e50c58810)
 
 
 ### For the Population file:
