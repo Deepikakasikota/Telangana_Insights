@@ -38,3 +38,5 @@ Assume it gowing by 0.7%
 					
 Now the population of 2019 = 37164841 = total pop in 2011 + (8*yearly growth), here 8 because difference between 2011 and 2019			
 Population of 2025 = 38642988 = total pop in 2011 + (14*yearly growth), here 14 because difference between 2011 and 2025
+
+- For Linkdin post: https://www.linkedin.com/posts/deepika-kasikota-53874a22b_telangana-tourism-insights-activity-7063579952910139392-DZ8o?utm_source=share&utm_medium=member_desktop
