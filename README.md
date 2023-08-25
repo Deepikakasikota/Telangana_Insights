@@ -26,9 +26,9 @@ We have two folders --
 Total population in 2011	35,193,978	  			
 Total population in 2023	38,090,000				
 					
-Increasing population = 2,896,022 = Total pop in 2023 - total pop in 2019			
+Increasing population = 2,896,022 = Total pop in 2023 - total pop in 2011			
 					
-Growth	0.08228743 = increasing population / total pop in 2019			
+Growth	0.08228743 = increasing population / total pop in 2011			
 					
 Yearly Growth Percentage = 0.748067545 = (0.7) percentage =  growth * 100 / years  = here years = 11 = difference between 2011 & 2023
 			
